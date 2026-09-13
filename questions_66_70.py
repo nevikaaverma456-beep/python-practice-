@@ -1,4 +1,4 @@
-''''
+
 #66. Take a total bill amount and number of people, then calculate the **amount each person should pay**.
 
 a=int(input("total bill amount:"))
@@ -38,7 +38,7 @@ rs= rm%60
 print(hours, " hours")
 print(min,"minutes")
 print(rs,"seconds")
-'''
+
 
 #70. Take marks of **6 subjects** and calculate total, average, and percentage.
 
